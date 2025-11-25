@@ -1,6 +1,6 @@
 # Monitoramento de Potência de Sinal WiFi com ESP32 e Envio via MQTT
 Este projeto tem como objetivo medir continuamente a potência do sinal WiFi (em dBm) utilizando um ESP32 e publicar esses valores em uma plataforma IoT via protocolo MQTT. Para a visualização desses valores utilizamos a plataforma ubidots. 
-### Objetivos do Projeto
+## Objetivos do Projeto
 Conectar o ESP32 à rede WiFi.
 
 
