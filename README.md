@@ -27,7 +27,7 @@ Gravar um vídeo demonstrando toda a experiência e medições.
 
 ## Cenários Testados e Valores Obtidos
 Os testes foram realizados em diferentes locais do campus, monitorando o nível de sinal por aproximadamente 10 segundos (ou 20 segundos no elevador).
-Local Testado e dBm registrado
+Registors realizados: 
 
 1) Sala de aula
 -36 dBm
@@ -104,7 +104,7 @@ void loop() {
 ```
 
 ## Vídeo da Experiência
-
+!href[https://drive.google.com/file/d/1veG104HWM8lyb9rJTi8sotJwnHTsPL8i/view?usp=drivesdk]
 
 ### Grupo:
 Rafael Campos
