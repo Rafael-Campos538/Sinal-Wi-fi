@@ -102,9 +102,11 @@ void loop() {
   }
 }
 ```
+## Grafico das oscilações 
+![image](https://res.cloudinary.com/dtxiyeitw/image/upload/v1764083781/Imagem_do_WhatsApp_de_2025-11-25_%C3%A0_s_12.16.11_8deaca2c_xzpdh1.jpg)
 
 ## Vídeo da Experiência
-[https://drive.google.com/file/d/1veG104HWM8lyb9rJTi8sotJwnHTsPL8i/view?usp=drivesdk]
+![Vídeo](https://drive.google.com/file/d/1veG104HWM8lyb9rJTi8sotJwnHTsPL8i/view?usp=drivesdk)
 
 ### Grupo:
 Rafael Campos
