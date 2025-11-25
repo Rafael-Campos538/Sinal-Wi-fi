@@ -25,10 +25,10 @@ Registrar a queda abrupta de sinal ao entrar no elevador (simulação de gaiola 
 Gravar um vídeo demonstrando toda a experiência e medições.
 
 
-Cenários Testados e Valores Obtidos
+## Cenários Testados e Valores Obtidos
 Os testes foram realizados em diferentes locais do campus, monitorando o nível de sinal por aproximadamente 10 segundos (ou 20 segundos no elevador).
-Local Testado
-dBm registrado
+Local Testado e dBm registrado
+
 1) Sala de aula
 -36 dBm
 2) Catraca da recepção
@@ -48,8 +48,9 @@ dBm registrado
 
 A queda expressiva registrada dentro do elevador comprova o bloqueio eletromagnético típico de uma gaiola de Faraday.
 
-Código Utilizado (ESP32 + MQTT + Ubidots)
+## Código Utilizado (ESP32 + MQTT + Ubidots)
 
+```
 #include "UbidotsEsp32Mqtt.h"
 
 const char *WIFI_SSID = "Inteli.Iot"; 
@@ -100,11 +101,8 @@ void loop() {
     WiFi.begin(WIFI_SSID, WIFI_PASS);
   }
 }
+```
 
-
-
-
-
-Vídeo da Experiência
+## Vídeo da Experiência
 
 
