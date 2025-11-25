@@ -106,3 +106,7 @@ void loop() {
 ## Vídeo da Experiência
 
 
+### Grupo:
+Rafael Campos
+Leonardo Lameda
+Vinicius Cadena
