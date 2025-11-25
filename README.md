@@ -109,6 +109,6 @@ void loop() {
 (https://drive.google.com/file/d/1veG104HWM8lyb9rJTi8sotJwnHTsPL8i/view?usp=drivesdk)
 
 ### Grupo:
-Rafael Campos
+Rafael Campos n\
 Leonardo Lameda
 Vinicius Cadena
